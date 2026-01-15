@@ -9,7 +9,7 @@ Install [nodeJS](https://nodejs.org/en/download/current)
 
 This is what the embed looks like, so you know where each Global variable will come. The embedcolor can be fetched from [Discohook](https://discohook.app/).
 
-%embed_description% can contain `\n` as a newline. 
+The description can contain `\n` as a newline. 
 
 Copy the following to import the action in Streamer.bot
 ```
